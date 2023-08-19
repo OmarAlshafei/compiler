@@ -10,3 +10,6 @@
 
 4. The expected output will be shown directly in the terminal.
 
+## Author
+
+This project is created by Omar Alshafei.
