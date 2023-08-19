@@ -1,8 +1,5 @@
 ## PL/0 Compiler
 
-
-
-
 ## How to Use
 
 1. To compile & run this code, first download the compiler.c file and any requisite input files to the same directory.
